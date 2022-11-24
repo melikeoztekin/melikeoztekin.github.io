@@ -274,6 +274,7 @@ body {
   .blog-slider {
     min-height: 500px;
     height: auto;
+    margin-top: 500px !important;
     margin: 180px auto;
   }
 
